@@ -2,13 +2,12 @@
 Scripts to download and format assorted financial data
 
 ## Contents
-* clean_cra - Cleans CRA lending data
-* get_cra   - Download the CRA flat files from FFIEC
-* get_hmda  - Download the HMDA flat files from the National Archives and FFIEC
+* data-code/get_hmda    - functions to download the HMDA Loan Applicant Register (LAR) files and the reporter panel -- now from CFPB.
 
 ## To-do
-* Create scripts to read in the fixed width files
-* Create scripts to clean and aggregate the HMDA and CRA data
+* Write scripts to clean the HMDA files.
+* Upload code examples for HMDA functions.
+* Re-write the functions to get the CRA data from FFIEC to make them more flexible.
 
 ## Selected Data
 
