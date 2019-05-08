@@ -11,7 +11,7 @@ Scripts to download and format assorted financial data
 
 ## Selected Data
 
-### Home Mortgage Disclosure ACT (HMDA)
+### Home Mortgage Disclosure Act (HMDA)
 HMDA provides loan-level data at the Census tract level and includes various characteristics of the loan itself (location, its amount, whether is was originated or not, rate spread, etc.) and the borrower (borrower sex, race and ethnicity, income, etc.).
     
 See the CFPB website for more details: [here](https://www.consumerfinance.gov/data-research/hmda/) 
